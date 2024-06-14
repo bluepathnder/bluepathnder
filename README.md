@@ -25,6 +25,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluepathnder&" alt="bluepathnder" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=bluepathnder&repo=tor-services&theme=White" alt="tor-services"></p>
+<p>
+<a href="https://github.com/bluepathnder/tor-services">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bluepathnder&repo=tor-services&theme=White" alt="tor-services"></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=bluepathnder&repo=bluepathnder&theme=White" alt="bluepathnder"></p>
+<p>
+<a href="https://github.com/bluepathnder/bluepathnder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bluepathnder&repo=bluepathnder&theme=White" alt="bluepathnder"></p>
