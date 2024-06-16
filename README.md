@@ -1,4 +1,4 @@
-![logo](https://github.com/bluepathnder/bluepathnder/blob/main/Github%20Banner.png)
+![logo](https://github.com/bluepathnder/bluepathnder/blob/main/Image.png)
 <h1 align="center">Hi 👋, I'm bluepathnder</h1>
 <h3 align="center"> I am a software developer with a passion for creating innovative solutions... </h3>
 
